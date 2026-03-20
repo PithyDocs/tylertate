@@ -1,3 +1,3 @@
-# here’s a new doc
+# Here’s a new doc
 
-that’s cool
+It’s cool
